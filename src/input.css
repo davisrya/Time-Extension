@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Paytone+One&di');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Paytone+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
